@@ -525,9 +525,7 @@ h6,
 }
 
 @media(max-width: 900px) {
-    .testimonial {
-        display: none !important;
-    }
+
     .footer-menu {
         display: inline-grid;
     }
