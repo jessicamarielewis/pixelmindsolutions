@@ -528,3 +528,10 @@ h6,
     .testimonial {
         display: none !important;
     }
+    .footer-menu {
+        display: inline-grid;
+    }
+    .footer-menu li{
+        padding-bottom: 15px;
+    }
+}
