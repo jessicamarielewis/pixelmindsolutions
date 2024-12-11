@@ -523,3 +523,8 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+@media(max-width: 900px) {
+    .testimonial {
+        display: none !important;
+    }
